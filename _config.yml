@@ -1,0 +1,34 @@
+markdown: redcarpet
+highlighter: pygments
+
+title: Pigeons and Creoles
+description: A blog about Ruby and other things.
+email: mushishi78@gmail.com
+logo: '/assets/images/logo.jpg'
+cover: '/assets/images/pigeons-01.jpg'
+closer: '/assets/images/pigeons-02.jpg'
+
+name: 'Max White'
+author: 'Max White'
+author_image: '/assets/images/me.jpg'
+
+paginate:	5
+excerpt_separator: <!--more-->
+
+url: 'http://mushishi78.github.io'
+baseurl: ''
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/mushishi78
+    desc: Follow me on twitter
+    share_url: http://twitter.com/share
+    share_title: ?text=
+    share_link: '&amp;url='
+
+  - icon:	github
+    url:	https://github.com/mushishi78
+    desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
