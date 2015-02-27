@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Memoized Hash"
-categories: quick_tips
+categories: tips
 ---
 
 A neat example of memoization using everyone's favourite sequence.

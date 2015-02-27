@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deeply Nested Hash"
-categories: quick_tips
+categories: tips
 ---
 
 If you ever find yourself needing to make deeply nested hash entries, this trick might just come in handy.
