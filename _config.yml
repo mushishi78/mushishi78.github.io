@@ -14,8 +14,9 @@ author_image: '/assets/images/me.jpg'
 
 paginate:	5
 excerpt_separator: <!--more-->
+permalink: :categories/:title
 
-url: 'http://mushishi78.github.io'
+url: 'http://pigeons-and-creoles.co.uk'
 baseurl: ''
 
 social:
