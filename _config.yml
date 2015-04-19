@@ -2,9 +2,9 @@ markdown: redcarpet
 highlighter: pygments
 
 title: Pigeons and Creoles
-description: A blog about Ruby and other things.
+description: A blog about programming and other things.
 email: mushishi78@gmail.com
-logo: '/assets/images/logo.jpg'
+logo: '/assets/images/logo3.jpg'
 cover: '/assets/images/pigeons-01.jpg'
 closer: '/assets/images/pigeons-02.jpg'
 
