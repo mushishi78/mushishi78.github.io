@@ -60,8 +60,16 @@ I have put together a working solution called [Jekyll-Store](https://github.com/
 
 * [Microservice](https://github.com/jekyll-store/microservice), for processing payments and sending transactional emails.
 
-There is a fully functioning demo available at: [www.jekyll-store.com/front/](http://www.jekyll-store.com/front/). It is hosted entirely for free on Github Pages and [Heroku](https://www.heroku.com/), and together with a few other free services, such as email and image hosting, costs me entirely nothing to upkeep.
+There is a fully functioning demo available at:
 
-Whilst the Jekyll-Store solution feature set is currently modest, it has potential to be as sophisticated as any other solution and at the same time far simpler. It is a perfomant and robust architecture that requires far less in terms of resources and maintaince.
+[www.jekyll-store.com/front/](http://www.jekyll-store.com/front/)
 
-Even if Jekyll-Store doesn't particularly appeal to your business needs, I encourage you to consider CMS-Free solutions for your next web project. It is potentially a disruptive innovation in web development and is deserving of your attention. For further information, check out this a great article by Dave Cole: [How We Build CMS-Free Websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/)
+It is hosted entirely for free on Github Pages and [Heroku](https://www.heroku.com/), and together with a few other free services, such as email and image hosting, costs me entirely nothing to upkeep.
+
+Whilst Jekyll-Store feature set is currently modest, it has potential to be as sophisticated as any other solution and at the same time far simpler. It is a perfomant and robust architecture that requires far less in terms of resources and maintaince.
+
+Even if the Jekyll-Store solution doesn't particularly appeal to your business needs, I encourage you to consider a CMS-Free solution for your next web project. It is potentially a disruptive innovation in web development and is deserving of your attention.
+
+For further reading, check out this a great article by Dave Cole:
+
+[How We Build CMS-Free Websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/)
